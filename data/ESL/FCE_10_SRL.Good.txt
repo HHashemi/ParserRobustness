@@ -1,0 +1,47 @@
+Is n't that ironic ?
+Is	(0, 1)|||AM-MNR	that ironic	(2, 4)|||AM-NEG	n't	(1, 2)
+
+Secondly , the musical should start at 19.30 , but we had to wait until 20.15 !
+start	(5, 6)|||A1	the musical	(2, 4)|||AM-DIS	Secondly	(0, 1)|||AM-MNR	at 19.30	(6, 8)|||AM-MOD	should	(4, 5)
+had	(11, 12)|||R-AM-LOC	we	(10, 11)
+wait	(13, 14)|||A1	we	(10, 11)|||AM-MOD	had	(11, 12)|||AM-TMP	until 20.15	(14, 16)
+
+Are they included in the prize ?
+Are	(0, 1)|||A1	they	(1, 2)
+included	(2, 3)|||AM-LOC	in the prize	(3, 6)
+
+In addition to this we will not have to pay anything since it is free for students .
+have	(7, 8)|||AM-ADV	In addition to this	(0, 4)|||AM-MOD	will	(5, 6)|||AM-NEG	not	(6, 7)|||C-AM-ADV	we	(4, 5)
+pay	(9, 10)|||A0	we	(4, 5)|||A1	anything	(10, 11)|||AM-ADV	In addition to this	(0, 4)|||AM-CAU	since it is free for students	(11, 17)|||AM-MOD	have	(7, 8)
+is	(13, 14)|||A1	it	(12, 13)|||AM-MNR	free for students	(14, 17)
+
+She has given it away to my mother that I told her a lie as far as the weekend was concerned .
+given	(2, 3)|||A0	She	(0, 1)|||A1	that I told her a lie as far as the weekend was concerned	(8, 21)|||A2	it	(3, 4)
+told	(10, 11)|||A0	I	(9, 10)|||A1	her a lie as far as the weekend was concerned	(11, 21)
+concerned	(20, 21)|||A1	the weekend	(17, 19)
+
+I think I have to drive the car myself , so that I will know more about the advantages of using a car .
+think	(1, 2)|||A0	I	(0, 1)|||A1	I have to drive the car myself , so that I will know more about the advantages of using a car	(2, 23)
+have	(3, 4)|||C-AM-TMP	I	(2, 3)
+drive	(5, 6)|||A0	I	(2, 3)|||A1	the car myself	(6, 9)|||AM-MOD	have	(3, 4)
+know	(14, 15)|||A0	I	(12, 13)|||AM-MOD	will	(13, 14)
+using	(20, 21)|||A0	I	(12, 13)|||A1	a car	(21, 23)
+
+First of all , I would like to say thank you for this good program , especially for the decision to visit London .
+like	(6, 7)|||A0	I	(4, 5)|||A1	to say thank you for this good program , especially for the decision to visit London	(7, 23)|||AM-DIS	First of all	(0, 3)|||AM-MOD	would	(5, 6)
+say	(8, 9)|||A0	I	(4, 5)|||A1	thank you for this good program , especially for the decision to visit London	(9, 23)
+thank	(9, 10)|||A0	I	(4, 5)|||A1	you	(10, 11)|||A2	for this good program , especially for the decision to visit London	(11, 23)
+visit	(21, 22)|||A1	London	(22, 23)
+
+Could you tell me what sort of equipment I will have to bring to do the activities ?
+tell	(2, 3)|||A0	you	(1, 2)|||A1	what sort of equipment I will have to bring to do the activities	(4, 17)|||A2	me	(3, 4)|||AM-MOD	Could	(0, 1)
+have	(10, 11)|||AM-MOD	will	(9, 10)|||R-AM-LOC	I	(8, 9)
+bring	(12, 13)|||A0	I	(8, 9)|||AM-MOD	have	(10, 11)|||AM-PNC	to do the activities	(13, 17)
+do	(14, 15)|||A0	I	(8, 9)|||A1	the activities	(15, 17)|||AM-MOD	have	(10, 11)
+
+I spent two days at the annual international arts festival from 21 to 22 of November .
+spent	(1, 2)|||A0	I	(0, 1)|||A1	from 21 to 22 of November	(10, 16)
+
+In conclusion , TV has both advantages and disadvantages , but on the whole the advantages are greater than the disadvantages .
+has	(4, 5)|||A0	TV	(3, 4)|||A1	both advantages and disadvantages	(5, 9)|||AM-ADV	In conclusion	(0, 2)
+are	(16, 17)|||A2	greater than the disadvantages	(17, 21)|||AM-CAU	the advantages	(14, 16)|||AM-TMP	on the whole	(11, 14)

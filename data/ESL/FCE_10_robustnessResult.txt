@@ -1,0 +1,10 @@
+1.0	1	 Is n't that contradictorious ?	 Is n't that ironic ?	0.0
+1.0	1	 Secondly , the musical should start on 19.30 , but we had to wait until 20.15 !	 Secondly , the musical should start at 19.30 , but we had to wait until 20.15 !	0.0
+1.0	1	 Are they inclued in the prize ?	 Are they included in the prize ?	0.0
+1.0	1	 In addition to these we will not have to pay anything since it is free for students .	 In addition to this we will not have to pay anything since it is free for students .	0.0
+1.0	1	 She has given away to my mother that I told her a lie as far as the weekend was concerned .	 She has given it away to my mother that I told her a lie as far as the weekend was concerned .	0.0
+1.0	2	 I think I have to drive the car myself , so that it will know more about the advantages of using the car .	 I think I have to drive the car myself , so that I will know more about the advantages of using a car .	9.0
+0.8780487804878048	5	 First of all , I would like to say thank to you for this good program , especially the decision of going to visit in London .	 First of all , I would like to say thank you for this good program , especially for the decision to visit London .	3.5
+1.0	1	 Could you tell me what sort of material I will have to bring to do the activities ?	 Could you tell me what sort of equipment I will have to bring to do the activities ?	0.0
+1.0	1	 I spent two days at annual international arts festival from 21 to 22 of November .	 I spent two days at the annual international arts festival from 21 to 22 of November .	0.0
+0.85	6	 In clucsion , the TV has both advantages and disagvangtages , but on the whole advantages is greater than disadvantages .	 In conclusion , TV has both advantages and disadvantages , but on the whole the advantages are greater than the disadvantages .	3.6
